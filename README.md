@@ -100,7 +100,6 @@ Reporting System
 🔔 Real-time notifications
 📸 Screenshots
 
-(Add your project screenshots here)
 
 🤝 Contribution
 
@@ -113,7 +112,7 @@ This project is for educational purposes.
 
 👨‍💻 Author
 
-Priyanshu Kumar
+Shally Kumari
 BCA Student | Full Stack Developer
 
 ⭐ Support
